@@ -3,6 +3,8 @@
 ## Author: Nsimba Z.
 ## Date: 10/27/2022
 
+##....installation of jenkins on a centOS 7 machine...
+
 echo "starting Jenkins installation this will take a few min..."
 
 sudo yum install java-11-openjdk-devel -y
